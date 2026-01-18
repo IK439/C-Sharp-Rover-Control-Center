@@ -39,7 +39,7 @@ This project demonstrates **object-oriented programming concepts** in C# using a
 
 ## Example Output
 
-```text
+```
 === Rover Control Center Test ===
 
 Alias: Lunokhod 1, YearLanded: 1970
